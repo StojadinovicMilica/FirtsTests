@@ -25,6 +25,7 @@ public class TestSuite extends TestBase {
         mainPage.navigationListMenu();
     }
 
+
     @Test
     @Tag("regression")
     public void badinUrlTest() {
